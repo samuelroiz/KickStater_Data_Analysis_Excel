@@ -8,3 +8,4 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 1. First Item
 2. Second Item
 3. 
+![Category](https://github.com/samuelroiz/KickStater_Data_Analysis_Excel/blob/main/Category_Data_KickStarter.png)
