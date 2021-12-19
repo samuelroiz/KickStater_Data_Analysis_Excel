@@ -9,6 +9,7 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 ![Category](https://github.com/samuelroiz/KickStater_Data_Analysis_Excel/blob/main/Category_Data_KickStarter.png)
 
   The given data shows theater is the most popular category with a high success rate of 60.2 percent. The highest funded percentage would be technology. It makes up 69.7 percent of the total funding. Finally, in the sub-category is the play's with a success rate of 65.1 percent, and a fail rate of 33.1 percent. 
+  
 ![Category Percent Funded](https://github.com/samuelroiz/KickStater_Data_Analysis_Excel/blob/main/Images/Category_PercentFunded_KickStarter.png)
 
 ![Sub-Category Percent Funded](https://github.com/samuelroiz/KickStater_Data_Analysis_Excel/blob/main/Images/Sub-Category_PercentFunded_KickStarter.png)
