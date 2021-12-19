@@ -24,3 +24,4 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
   ![Backers Count](https://github.com/samuelroiz/KickStater_Data_Analysis_Excel/blob/main/Images/Backers_Count_KickerStarter.png)
   
 
+### Notes
